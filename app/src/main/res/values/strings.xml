@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrocaTelas</string>
+    <string name="titulo">Você está na tela principal!</string>
+    <string name="btnTela2">Ir para a tela 2</string>
+</resources>
